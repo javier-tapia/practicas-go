@@ -1,0 +1,2 @@
+# practicas-go
+Curso Go
